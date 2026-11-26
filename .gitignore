@@ -1,0 +1,16 @@
+/build/
+/release/
+/verification/
+/tests/
+/research/
+/local/
+/docs/releases/
+*.8xp
+*.8xv
+*.8xg
+*.rom
+*.sav
+.DS_Store
+__pycache__/
+*.pyc
+.env*
